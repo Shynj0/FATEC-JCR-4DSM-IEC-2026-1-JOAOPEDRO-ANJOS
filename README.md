@@ -1,8 +1,8 @@
 # Portfólio – Integração e Entrega Contínua – 2026/1
 ## Aluno
 - Nome: João Pedro Souza dos Anjos
-- LinkedIn:
-- GitHub: https://github.com/Shynj0
+- LinkedIn: [João Pedro Anjos](https://www.linkedin.com/in/jo%C3%A3o-pedro-anjos/)
+- GitHub: [Shynj0](https://github.com/Shynj0)
 ---
 ## Estrutura
 - P1
